@@ -1,12 +1,15 @@
 body {
 	background-color: #1B3663;
 	font-family: "News Gothic", sans-serif;
-	letter-spacing: 12px;
+
 }
 
-h1, p {
-	color: #FFFFFF;
+h1{
+	color: #D3D3D3;
+	letter-spacing: 30px;
 }
 p{
+	color: #FFFFFF;
 	text-align: center;
+	letter-spacing: 12px;
 }
