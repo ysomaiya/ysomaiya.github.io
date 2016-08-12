@@ -6,7 +6,7 @@ body {
 
 h1{
 	color: #FFFFFF;
-	letter-spacing: 12px;
+	letter-spacing: 16px;
 	font-weight: normal;
 }
 p{
@@ -14,11 +14,4 @@ p{
 	text-align: center;
 	letter-spacing: 2px;
 	font-weight: bold;
-}
-.righttext{
-	float: none;
-	margin-left: 64px;
-}
-.leftimage{
-	float: left;
 }
