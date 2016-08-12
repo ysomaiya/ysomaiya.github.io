@@ -1,7 +1,11 @@
 body {
 	background-color: #1B3663;
+	font-style: "Bank Gothic": Sans-Serif;
 }
 
 h1, p {
 	color: #FFFFFF;
+}
+p{
+	text-align: center;
 }
