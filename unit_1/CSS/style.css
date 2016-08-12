@@ -15,3 +15,10 @@ p{
 	letter-spacing: 2px;
 	font-weight: bold;
 }
+.righttext{
+	float: none;
+	margin-left: 64px;
+}
+.leftimage{
+	float: left;
+}
