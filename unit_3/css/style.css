@@ -1,0 +1,30 @@
+body {
+	background-color: #1B3663;
+	font-family: "News Gothic", sans-serif;
+
+}
+
+h1{
+	color: #FFFFFF;
+	letter-spacing: 16px;
+	font-weight: normal;
+}
+.slogan{
+	color: #D3D3D3;
+	text-align: center;
+	letter-spacing: 2px;
+	font-weight: bold;
+}
+.footer{
+	color:#D3D3D3;
+	letter-spacing: -12px;
+}
+p{
+	color: #D3D3D3;
+
+	letter-spacing: 2px;
+	font-weight: bold;
+}
+hr{
+	color: #D3D3D3;
+}
