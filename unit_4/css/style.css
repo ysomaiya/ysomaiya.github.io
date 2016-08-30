@@ -1,3 +1,6 @@
+<style>
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+</style>
 
 body {
 	background-color: #1B3663;
@@ -9,6 +12,7 @@ h1{
 	color: #FFFFFF;
 	letter-spacing: 16px;
 	font-weight: normal;
+	font-family: 'Raleway', sans-serif;
 }
 .slogan{
 	color: #D3D3D3;
