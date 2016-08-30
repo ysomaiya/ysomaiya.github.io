@@ -1,12 +1,15 @@
-
+<style>
+@import 'https://fonts.googleapis.com/css?family=Raleway';
+</style>
 
 body {
 	background-color: #1B3663;
 	font-family: Helvetica;
+
 }
 
 h1{
-	color: #000000;
+	color: #FFFFFF;
 	letter-spacing: 16px;
 	font-weight: normal;
 	font-family: 'Raleway', sans-serif;
